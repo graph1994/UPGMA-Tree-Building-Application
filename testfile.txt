@@ -1,0 +1,11 @@
+>1 Taxon1
+>2 Taxon2
+>3 Taxon3
+>4 Taxon4
+>5 Taxon5
+>6 Taxon6
+9
+12 7
+15 10 5
+20 15 10 11
+16 11 16 7 8 
